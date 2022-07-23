@@ -1,0 +1,2 @@
+Logs:              https://app.netlify.com/sites/nfttradingreact/deploys/62ceee37d35ee702b8e8b606
+Website Draft URL: https://62ceee37d35ee702b8e8b606--nfttradingreact.netlify.app
